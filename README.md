@@ -240,12 +240,14 @@ Advantages:
 
 ---
 
-## 2. Random Forest
+## 2. LightGBM
 
-Used to capture:
+Used as the primary tree-based model to capture:
 
-* Non-linear relationships
-* Feature interactions
+- Non-linear relationships
+- Complex feature interactions
+- Missing value handling
+- High-cardinality feature patterns
 
 ---
 
