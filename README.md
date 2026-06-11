@@ -4,10 +4,6 @@
 
 **Name:** Lakshya Vipassana
 
-**Program:** M.Tech, Infrastructure Design and Management
-
-**Institute:** Indian Institute of Technology Kharagpur
-
 ---
 
 # Problem Statement
